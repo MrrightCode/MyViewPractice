@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Topbar">
+        <attr name="titleSize" format="dimension"/>
+        <attr name="titleColor" format="color"/>
+        <attr name="leftBackGround" format="color|reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleView">
+        <attr name="stratAgle" format="float"/>
+        <attr name="sweepAgle" format="float"/>
+        <attr name="text" format="string"/>
+        <attr name="color" format="color"/>
+    </declare-styleable>
+</resources>
